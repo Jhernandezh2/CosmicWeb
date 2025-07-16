@@ -1,0 +1,6 @@
+*.pkl
+*.fits
+.ecsv
+*ecsv
+__pycache__/
+.ipynb_checkpoints/
