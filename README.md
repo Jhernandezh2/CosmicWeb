@@ -60,6 +60,15 @@ Se incluyen métricas estadísticas, gráficas comparativas y tablas exportadas 
 </details>
 
 <details>
+<summary><strong>08_visualization_groups/</strong> – Visualización y diagnóstico de estructuras</summary>
+
+- `08_visualization_groups.ipynb` – Notebook para visualizar filamentos, hojas, nudos y vacíos a partir de datos clasificados. Genera gráficas 2D y 3D por clases estructurales y umbrales de contraste `r`.  
+  Incluye análisis de conectividad, agrupación por componentes, y estadísticas por rosetta.
+
+</details>
+
+
+<details>
 <summary><strong>07_visualizaciones_100_random_vs_datos/</strong> – Plots y tablas finales</summary>
 
 - `100_random_plots/` – PDFs, histogramas y distribución de entropía.
