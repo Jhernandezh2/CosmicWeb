@@ -59,12 +59,6 @@ Se incluyen métricas estadísticas, gráficas comparativas y tablas exportadas 
 - `Random_final.ipynb` – Entropía y clasificación para 100 archivos randoms.
 </details>
 
-<details>
-<summary><strong>08_visualization_groups/</strong> – Visualización y diagnóstico de estructuras</summary>
-
-- `08_visualization_groups.ipynb` – Notebook para visualizar filamentos, hojas, nudos y vacíos a partir de datos clasificados. Genera gráficas 2D y 3D por clases estructurales y umbrales de contraste `r`.  
-  Incluye análisis de conectividad, agrupación por componentes, y estadísticas por rosetta.
-
 </details>
 
 
@@ -75,6 +69,13 @@ Se incluyen métricas estadísticas, gráficas comparativas y tablas exportadas 
 - `100_random_tablas/` – Tablas individuales y generales (PNG y CSV).
 - `random_vs_datos.ipynb` – Notebook de visualización resumen.
 </details>
+
+<details>
+<summary><strong>08_visualization_groups/</strong> – Visualización y diagnóstico de estructuras</summary>
+
+- `08_visualization_groups.ipynb` – Notebook para visualizar filamentos, hojas, nudos y vacíos a partir de datos clasificados. Genera gráficas 2D y 3D por clases estructurales y umbrales de contraste `r`.  
+  Incluye análisis de conectividad, agrupación por componentes, y estadísticas por rosetta.
+  
 
 <details>
 <summary><strong>typed_by_rosetta/</strong> – Archivos `.pkl` por roseta</summary>
